@@ -1,0 +1,28 @@
+time: 4.321624994277954
+模型的数量：2
+modelID: 0
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000002163900B860>}
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000002163930C4A0>, <ModelShare_with_DSR_final.Predicate object at 0x0000021639322A50>}
+trainnum: 63
+testnum: 12
+f1: 1.0
+----------------------------------------------------------------------------
+
+
+modelID: 1
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000002163930C4A0>, <ModelShare_with_DSR_final.Predicate object at 0x0000021639320B00>}
+trainnum: 297
+testnum: 69
+f1: 0.0
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.9444444444444444
+total_precision: 0.9444444444444444
+total_recall: 0.9444444444444444
+total_accuracy: 0.9777777777777777
+testnum: 90
+prenum: 90

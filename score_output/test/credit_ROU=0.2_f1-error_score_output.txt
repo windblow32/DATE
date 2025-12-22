@@ -1,0 +1,33 @@
+time: 61.79827117919922
+模型的数量：2
+Saved model to model/credit_model_0.pkl
+modelID: 0
+rule: {<__main__.Predicate object at 0x1686c6820>}
+trainnum: 2449
+testnum: 639
+f1: 0.9550286181520851
+accuracy: 0.9139280125195618
+precision: 0.9139280125195618
+----------------------------------------------------------------------------
+
+
+Saved model to model/credit_model_1.pkl
+modelID: 1
+rule: {<__main__.Predicate object at 0x1686c6160>}
+trainnum: 10922
+testnum: 2704
+f1: 0.6514784294716434
+accuracy: 0.7340976331360947
+precision: 0.6892307692307692
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.7644552647595861
+total_precision: 0.7781908302354399
+total_recall: 0.7511961722488039
+total_accuracy: 0.7684714328447503
+testnum: 3343
+prenum: 3343

@@ -1,0 +1,138 @@
+time: 323.8663601875305
+模型的数量：6
+Saved model to model/Bioresponse_model_0.pkl
+modelID: 0
+rule: {<__main__.Predicate object at 0x31181d2e0>}
+rule: {<__main__.Predicate object at 0x3136ff8b0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x30a76e2b0>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x3136ff8b0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x30a76efa0>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x3159cb880>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x314e61b50>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3136b76d0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x3159cb820>}
+rule: {<__main__.Predicate object at 0x31483fd90>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3118ce190>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x315514220>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c100>, <__main__.Predicate object at 0x164eb7070>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3cc40>}
+trainnum: 860
+testnum: 21
+f1: 0.19999999999999998
+accuracy: 0.6190476190476191
+precision: 1.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/Bioresponse_model_1.pkl
+modelID: 1
+rule: {<__main__.Predicate object at 0x31172a1c0>, <__main__.Predicate object at 0x30a76ef10>, <__main__.Predicate object at 0x31360f880>, <__main__.Predicate object at 0x3136ff8b0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c160>, <__main__.Predicate object at 0x3139035e0>}
+rule: {<__main__.Predicate object at 0x312a561c0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x31483f5b0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x30b741580>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3159cb190>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x1640c5eb0>}
+trainnum: 508
+testnum: 12
+f1: 0.8571428571428571
+accuracy: 0.75
+precision: 0.75
+----------------------------------------------------------------------------
+
+
+Saved model to model/Bioresponse_model_2.pkl
+modelID: 2
+rule: {<__main__.Predicate object at 0x31172a1c0>, <__main__.Predicate object at 0x30a76ef10>, <__main__.Predicate object at 0x31360f400>, <__main__.Predicate object at 0x3136ff8b0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c280>, <__main__.Predicate object at 0x3136cb6d0>}
+rule: {<__main__.Predicate object at 0x31534c9d0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3159cb1c0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x31483fc70>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x30b71b460>}
+rule: {<__main__.Predicate object at 0x314c99250>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x31483f940>, <__main__.Predicate object at 0x164d31a60>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3136b7070>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x3159cb820>}
+rule: {<__main__.Predicate object at 0x3136b7e20>, <__main__.Predicate object at 0x3159cb820>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x163ceea60>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159cb820>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3133fc9d0>, <__main__.Predicate object at 0x3136b7a30>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x315514460>, <__main__.Predicate object at 0x313d3c100>}
+rule: {<__main__.Predicate object at 0x313d3cf70>, <__main__.Predicate object at 0x161634ee0>}
+rule: {<__main__.Predicate object at 0x314818f70>, <__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x1642f8040>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x314e61a90>, <__main__.Predicate object at 0x163ddfa00>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x315743490>, <__main__.Predicate object at 0x30a50ed30>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x164d23d30>, <__main__.Predicate object at 0x3083b0520>}
+rule: {<__main__.Predicate object at 0x1639afd00>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x163de35e0>, <__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x3083b0940>}
+trainnum: 823
+testnum: 21
+f1: 0.8571428571428571
+accuracy: 0.7619047619047619
+precision: 0.75
+----------------------------------------------------------------------------
+
+
+Saved model to model/Bioresponse_model_3.pkl
+modelID: 3
+rule: {<__main__.Predicate object at 0x30a76ef10>, <__main__.Predicate object at 0x31172aac0>, <__main__.Predicate object at 0x3136ff8b0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x3136ff370>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c280>, <__main__.Predicate object at 0x3136cb190>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x3159cb040>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x312a56640>, <__main__.Predicate object at 0x31483f5b0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x314c997c0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x31483f940>}
+rule: {<__main__.Predicate object at 0x31483f940>, <__main__.Predicate object at 0x314c99250>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x164d364c0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3136b7e20>, <__main__.Predicate object at 0x3159cb820>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x163cee9d0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159cb820>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x1642f83d0>, <__main__.Predicate object at 0x3136b7a30>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159cb190>, <__main__.Predicate object at 0x3159d14f0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159cb190>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>, <__main__.Predicate object at 0x3159d1490>}
+rule: {<__main__.Predicate object at 0x3159cb190>, <__main__.Predicate object at 0x30b741b50>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159d28e0>, <__main__.Predicate object at 0x3159cbfd0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159cbfd0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3159d2b50>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c100>, <__main__.Predicate object at 0x163d60370>}
+rule: {<__main__.Predicate object at 0x163d60f40>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c100>}
+rule: {<__main__.Predicate object at 0x313d3cac0>, <__main__.Predicate object at 0x161634ee0>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c130>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c880>}
+rule: {<__main__.Predicate object at 0x3165c8cd0>, <__main__.Predicate object at 0x161634ee0>}
+rule: {<__main__.Predicate object at 0x3165c8c10>, <__main__.Predicate object at 0x161634ee0>}
+rule: {<__main__.Predicate object at 0x3148187f0>, <__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3083b01c0>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3083b0a90>, <__main__.Predicate object at 0x3159cbbe0>}
+rule: {<__main__.Predicate object at 0x163ddf610>, <__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x314e61a90>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x30a50ec70>}
+rule: {<__main__.Predicate object at 0x30a50e250>, <__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3083b0520>, <__main__.Predicate object at 0x164d23a90>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x1639af2e0>, <__main__.Predicate object at 0x3083b0940>}
+trainnum: 349
+testnum: 78
+f1: 0.07017543859649122
+accuracy: 0.32051282051282054
+precision: 1.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/Bioresponse_model_4.pkl
+modelID: 4
+rule: {<__main__.Predicate object at 0x30a76ee80>, <__main__.Predicate object at 0x3136ff8b0>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x31534c820>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3159cb1c0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3167c1d00>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x315514220>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x164eb78b0>, <__main__.Predicate object at 0x313d3c100>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3148184f0>}
+trainnum: 107
+testnum: 12
+f1: 0.9090909090909091
+accuracy: 0.8333333333333334
+precision: 0.8333333333333334
+----------------------------------------------------------------------------
+
+
+Saved model to model/Bioresponse_model_5.pkl
+modelID: 5
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313903190>, <__main__.Predicate object at 0x3136ff5e0>, <__main__.Predicate object at 0x313d3c160>}
+rule: {<__main__.Predicate object at 0x3159cb880>, <__main__.Predicate object at 0x314e61670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x3159cb880>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x314e617f0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x31483fdc0>, <__main__.Predicate object at 0x313d3c3d0>}
+rule: {<__main__.Predicate object at 0x313d3c670>, <__main__.Predicate object at 0x161634ee0>, <__main__.Predicate object at 0x3083b06d0>}
+trainnum: 80
+testnum: 24
+f1: 0.8108108108108109
+accuracy: 0.7083333333333334
+precision: 0.6818181818181818
+----------------------------------------------------------------------------
+
+
+Saved model to model/Bioresponse_model_-1.pkl
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.6447574334898278
+total_precision: 0.6688311688311688
+total_recall: 0.622356495468278
+total_accuracy: 0.6695778748180495
+testnum: 687
+prenum: 687

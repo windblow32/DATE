@@ -1,0 +1,94 @@
+time: 103.94577288627625
+模型的数量：7
+Saved model to model/bank-marketing_model_0.pkl
+modelID: 0
+rule: {<__main__.Predicate object at 0x16bf4ddf0>}
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c077d00>, <__main__.Predicate object at 0x16c06f8b0>}
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c06fa60>, <__main__.Predicate object at 0x16c181be0>, <__main__.Predicate object at 0x16c077d00>, <__main__.Predicate object at 0x16c2c8340>}
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c06fa60>, <__main__.Predicate object at 0x16c077d00>, <__main__.Predicate object at 0x16c2c88b0>}
+trainnum: 4883
+testnum: 477
+f1: 0.9719222462203023
+accuracy: 0.9454926624737946
+precision: 1.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_1.pkl
+modelID: 1
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c06fac0>, <__main__.Predicate object at 0x16c077d00>}
+trainnum: 32
+testnum: 9
+f1: 0.0
+accuracy: 0.8888888888888888
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_2.pkl
+modelID: 2
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c077d00>, <__main__.Predicate object at 0x16c06f640>}
+trainnum: 10
+testnum: 5
+f1: 0.0
+accuracy: 1.0
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_3.pkl
+modelID: 3
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c06fa60>, <__main__.Predicate object at 0x16c1819d0>, <__main__.Predicate object at 0x16c077d00>, <__main__.Predicate object at 0x16c2c8340>}
+trainnum: 24
+testnum: 6
+f1: 0.0
+accuracy: 1.0
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_4.pkl
+modelID: 4
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fa0>, <__main__.Predicate object at 0x16c077100>}
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75280>}
+rule: {<__main__.Predicate object at 0x16c17de50>, <__main__.Predicate object at 0x16bf4d2b0>}
+trainnum: 1924
+testnum: 339
+f1: 0.037735849056603765
+accuracy: 0.8495575221238938
+precision: 0.25
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_5.pkl
+modelID: 5
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fd0>, <__main__.Predicate object at 0x16c1959a0>}
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fd0>, <__main__.Predicate object at 0x16c195b80>}
+trainnum: 158
+testnum: 103
+f1: 0.037037037037037035
+accuracy: 0.49514563106796117
+precision: 1.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_6.pkl
+modelID: 6
+rule: {<__main__.Predicate object at 0x16bf4d850>, <__main__.Predicate object at 0x16bf75fd0>, <__main__.Predicate object at 0x16c1952b0>}
+trainnum: 15
+testnum: 35
+f1: 0.0
+accuracy: 0.9142857142857143
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.7613582018173124
+total_precision: 0.7967967967967968
+total_recall: 0.7289377289377289
+total_accuracy: 0.7641776937618148
+testnum: 2116
+prenum: 2116

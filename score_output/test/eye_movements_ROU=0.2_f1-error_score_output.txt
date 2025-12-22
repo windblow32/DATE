@@ -1,0 +1,33 @@
+time: 41.933077812194824
+模型的数量：2
+Saved model to model/eye_movements_model_0.pkl
+modelID: 0
+rule: {<__main__.Predicate object at 0x3134481f0>}
+trainnum: 39
+testnum: 7
+f1: 1.0
+accuracy: 1.0
+precision: 1.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/eye_movements_model_1.pkl
+modelID: 1
+rule: {<__main__.Predicate object at 0x313448c10>}
+trainnum: 6047
+testnum: 1515
+f1: 0.6428098078197483
+accuracy: 0.6442244224422442
+precision: 0.6373193166885677
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.6442244224422442
+total_precision: 0.6387434554973822
+total_recall: 0.6498002663115846
+total_accuracy: 0.6458607095926413
+testnum: 1522
+prenum: 1522

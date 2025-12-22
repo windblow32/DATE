@@ -1,0 +1,78 @@
+time: 103.42178106307983
+模型的数量：6
+Saved model to model/bank-marketing_model_0.pkl
+modelID: 0
+rule: {<__main__.Predicate object at 0x16b17ddf0>}
+trainnum: 4750
+testnum: 1200
+f1: 0.8853211009174312
+accuracy: 0.8333333333333334
+precision: 0.8596881959910914
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_1.pkl
+modelID: 1
+rule: {<__main__.Predicate object at 0x16b17d850>, <__main__.Predicate object at 0x16b1a6880>}
+trainnum: 74
+testnum: 15
+f1: 0.0
+accuracy: 1.0
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_2.pkl
+modelID: 2
+rule: {<__main__.Predicate object at 0x16b17d850>, <__main__.Predicate object at 0x16b1a6970>}
+rule: {<__main__.Predicate object at 0x16b17d2b0>, <__main__.Predicate object at 0x16b8e3220>}
+trainnum: 1655
+testnum: 82
+f1: 0.125
+accuracy: 0.8292682926829268
+precision: 0.3333333333333333
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_3.pkl
+modelID: 3
+rule: {<__main__.Predicate object at 0x16b2aa940>, <__main__.Predicate object at 0x16b17d850>}
+trainnum: 282
+testnum: 60
+f1: 0.0
+accuracy: 0.7666666666666667
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_4.pkl
+modelID: 4
+rule: {<__main__.Predicate object at 0x16b17d850>, <__main__.Predicate object at 0x16b2aaac0>}
+trainnum: 151
+testnum: 36
+f1: 0.0
+accuracy: 0.9166666666666666
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+Saved model to model/bank-marketing_model_5.pkl
+modelID: 5
+rule: {<__main__.Predicate object at 0x16b17d850>, <__main__.Predicate object at 0x16b2aa3d0>}
+trainnum: 134
+testnum: 21
+f1: 0.0
+accuracy: 0.7619047619047619
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.788898999090082
+total_precision: 0.7839059674502713
+total_recall: 0.7939560439560439
+total_accuracy: 0.780718336483932
+testnum: 2116
+prenum: 2116

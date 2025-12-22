@@ -1,0 +1,68 @@
+time: 16.401670932769775
+模型的数量：7
+modelID: 0
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AD80>}
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C170>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070DE80>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E4E0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD06EBAD0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>}
+trainnum: 226
+testnum: 59
+f1: 0.8048780487804879
+----------------------------------------------------------------------------
+
+
+modelID: 1
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C170>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E4E0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD06EBAD0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E870>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>}
+trainnum: 90
+testnum: 23
+f1: 0.38095238095238093
+----------------------------------------------------------------------------
+
+
+modelID: 2
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C170>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E4E0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD06EBAD0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E6F0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>}
+trainnum: 12
+testnum: 5
+f1: 0.0
+----------------------------------------------------------------------------
+
+
+modelID: 3
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C170>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD06EBEC0>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E4E0>}
+trainnum: 7
+testnum: 3
+f1: 0.0
+----------------------------------------------------------------------------
+
+
+modelID: 4
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C170>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD06EB920>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E4E0>}
+trainnum: 24
+testnum: 7
+f1: 0.0
+----------------------------------------------------------------------------
+
+
+modelID: 5
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070E690>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C170>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>}
+trainnum: 34
+testnum: 7
+f1: 0.0
+----------------------------------------------------------------------------
+
+
+modelID: 6
+rule: {<ModelShare_with_DSR_final.Predicate object at 0x000001BAD070C320>, <ModelShare_with_DSR_final.Predicate object at 0x000001BAD063AA20>}
+trainnum: 221
+testnum: 50
+f1: 0.0
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.6491228070175439
+total_precision: 0.6271186440677966
+total_recall: 0.6727272727272727
+total_accuracy: 0.7402597402597403
+testnum: 154
+prenum: 154

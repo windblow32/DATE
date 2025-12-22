@@ -1,0 +1,25 @@
+聚类标签：-1
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_153', 'col_154', 'col_155', 'col_156', 'col_157', 'col_158',
+       'col_159', 'col_160', 'col_161', 'label'],
+      dtype='object', length=163)
+聚类标签：0
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_153', 'col_154', 'col_155', 'col_156', 'col_157', 'col_158',
+       'col_159', 'col_160', 'col_161', 'label'],
+      dtype='object', length=163)
+
+
+---------------------------------------------------------------------------------
+time：3.9421756267547607
+block数：2
+total_f1: 0.7988668555240793
+total_precision: 0.9215686274509803
+total_recall: 0.705
+total_accuracy: 0.9653489507076622
+10242
+10242

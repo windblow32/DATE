@@ -1,0 +1,760 @@
+聚类标签：-1
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：0
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：1
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：2
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：3
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：4
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：5
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：6
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：7
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：8
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：9
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：10
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：11
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：12
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：13
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：14
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：15
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：16
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：17
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：18
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：19
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：20
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：21
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：22
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：23
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：24
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：25
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：26
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：27
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：28
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：29
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：30
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：31
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：32
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：33
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：34
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：35
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：36
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：37
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：38
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：39
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：40
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：41
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：42
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：43
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：44
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：45
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：46
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：47
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：48
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：49
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：50
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：51
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：52
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：53
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：54
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：55
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：56
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：57
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：58
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：59
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：60
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：61
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：62
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：63
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：64
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：65
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：66
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：67
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：68
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：69
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：70
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：71
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：72
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：73
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：74
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：75
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：76
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：77
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：78
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：79
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：80
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：81
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：82
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：83
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：84
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：85
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：86
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：87
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：88
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：89
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：90
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：91
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：92
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：93
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：94
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：95
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：96
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：97
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：98
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：99
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：100
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：101
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：102
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：103
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：104
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+聚类标签：105
+Index(['col_0', 'col_1', 'col_2', 'col_3', 'col_4', 'col_5', 'col_6', 'col_7',
+       'col_8', 'col_9',
+       ...
+       'col_113', 'col_114', 'col_115', 'col_116', 'col_117', 'col_118',
+       'col_119', 'col_120', 'col_121', 'label'],
+      dtype='object', length=123)
+
+
+---------------------------------------------------------------------------------
+time：15.958382844924927
+block数：107
+total_f1: 0.9498871331828442
+total_precision: 0.9486023444544635
+total_recall: 0.9511754068716094
+total_accuracy: 0.980795847750865
+28707
+28707

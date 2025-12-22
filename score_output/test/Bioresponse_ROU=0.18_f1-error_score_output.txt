@@ -1,0 +1,51 @@
+time: 36.28653311729431
+模型的数量：4
+modelID: 0
+rule: {<__main__.Predicate object at 0x281c265e0>}
+trainnum: 689
+testnum: 192
+f1: 0.8612099644128115
+accuracy: 0.796875
+precision: 0.8231292517006803
+----------------------------------------------------------------------------
+
+
+modelID: 1
+rule: {<__main__.Predicate object at 0x16ba80fa0>, <__main__.Predicate object at 0x281606ca0>, <__main__.Predicate object at 0x281c26850>}
+trainnum: 1213
+testnum: 295
+f1: 0.8148148148148148
+accuracy: 0.7796610169491526
+precision: 0.7606382978723404
+----------------------------------------------------------------------------
+
+
+modelID: 2
+rule: {<__main__.Predicate object at 0x16ba803a0>, <__main__.Predicate object at 0x281606ca0>, <__main__.Predicate object at 0x281c26850>}
+trainnum: 184
+testnum: 53
+f1: 0.0
+accuracy: 0.8679245283018868
+precision: 0.0
+----------------------------------------------------------------------------
+
+
+modelID: 3
+rule: {<__main__.Predicate object at 0x16ba80eb0>, <__main__.Predicate object at 0x281606ca0>, <__main__.Predicate object at 0x281c26850>}
+trainnum: 286
+testnum: 68
+f1: 0.47058823529411764
+accuracy: 0.7352941176470589
+precision: 0.5333333333333333
+----------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------------------------------------
+total_f1: 0.792560801144492
+total_precision: 0.7527173913043478
+total_recall: 0.8368580060422961
+total_accuracy: 0.7889374090247453
+testnum: 687
+prenum: 687
