@@ -1,12 +1,14 @@
-Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs
+# Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs
 
-DATE is a LLM-based diversity-aware tabular data generator.
+Welcome to **DATE**, a LLM-based tabular data generator for heterogenous data. We present our **Source Code** and **Appendix** for users. 
 
-运行ModelShare_with_DSR_final.py, 划分异构数据为block/[dataset_name].csv文件，并存储DGR-data pair在current_block/[dataset_name].csv
+To check our Appendix, please read our [appendix](appendix.pdf).
 
-运行dataGenerator.py,自动化调用利用LLM实现生成
+To obtain the public data used in our experiment, please refer to the IEEE Dataport: https://ieee-dataport.org/documents/heterogeneous-data-augmentation-benchmark.
 
+For running Module 1: DGR-based Prompt Designing, please refer to [ModelShare_with_DSR_final.py](ModelShare_with_DSR_final.py).
 
-test_UCB是利用多臂老虎机算法的子集抽取算法
-test_forward:由前向后贪心，不能保证每次贪心都能找到最优，但是理论上看越靠后越有优势，该算法略优于从后向前贪心
-test_backward_greedy: 由后向前贪心
+For running Module 2: Distribution-Specific Generation, please refer to [dataGeneration.py](dataGeneration.py).
+
+Files with the `test_` prefix are test files. For example, (test_forward)[test_forward.py] is a testing file based on forward-greedy selection.
+
