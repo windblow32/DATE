@@ -2,7 +2,7 @@
 
 Welcome to **DATE**, a LLM-based tabular data generator for heterogenous data. We present our **Source Code** and **Appendix** for users. 
 
-To check our Appendix, please read our [appendix](appendix.pdf).
+For detailed proofs and external experiments in the original paper, please read our [appendix](appendix.pdf).
 
 To obtain the public data used in our experiment, please refer to the IEEE Dataport: https://ieee-dataport.org/documents/heterogeneous-data-augmentation-benchmark.
 
