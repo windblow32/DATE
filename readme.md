@@ -4,7 +4,8 @@ Welcome to **DATE**, a LLM-based tabular data generator for heterogenous data. W
 
 For detailed proofs and external experiments in the original paper, please read our [appendix](appendix.pdf).
 
-To obtain the public data used in our experiment, please refer to the IEEE Dataport: https://ieee-dataport.org/documents/heterogeneous-data-augmentation-benchmark.
+To obtain the public data used in our experiment, please refer to the [IEEE Dataport](https://ieee-dataport.org/documents/heterogeneous-data-augmentation-benchmark).
+We also public it on Huggingface as [Heterogenous_Synthesis_Benchmark](https://huggingface.co/datasets/CurryOvO/Heterogenous_Synthesis_Benchmark)
 
 For running Module 1: DGR-based Prompt Designing, please refer to [ModelShare_with_DSR_final.py](ModelShare_with_DSR_final.py).
 
