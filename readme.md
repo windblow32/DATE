@@ -1,5 +1,9 @@
 # Exploring the Heterogeneity of Tabular Data: A Diversity-aware Data Generator via LLMs
-
+<p align="center">
+  <a href="https://arxiv.org/abs/2512.21915">
+    <img src="https://img.shields.io/badge/arXiv-2512.21915-b31b1b.svg" alt="arXiv">
+  </a>
+</p>
 Welcome to **DATE**, a LLM-based tabular data generator for heterogenous data. 
 
 Tabular data generation has become increasingly essential for enabling robust machine learning applications, which require large-scale, high-quality data.  Existing solutions leverage generative models to learn original data distributions. However, real-world data are naturally heterogeneous with diverse distributions, making it challenging to obtain a universally good model for diverse data generation. To address this limitation, we introduce Diversity-Aware Tabular data gEnerator (DATE), a framework that (i) prepares high-quality and distributionally distinct examples for in-context learning by effectively partitioning the original heterogeneous data into multiple diverse subsets; (ii) harnesses Large Language Models (LLMs) to explore the diversity of the partitioned distribution with decision tree reasoning as feedback, generating high-quality labeled data for each subset.
